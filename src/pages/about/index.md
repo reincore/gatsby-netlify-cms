@@ -1,9 +1,9 @@
 ---
 templateKey: about-page
-title: Wakanda JavaScript Developer Meetup
+title: Deniz Sağlam
 mainImage:
   image: /img/teemu-paananen-376238-unsplash.jpg
-  imageAlt: Wakanda JavaScript developer presenting at a meetup.
+  imageAlt: Personal website of Deniz
 gallery:
   - image: /img/neonbrand-509131-unsplash.jpg
     imageAlt: Wakanda JavaScript developer presenting at a meetup.
@@ -12,7 +12,7 @@ gallery:
   - image: /img/annie-spratt-608001-unsplash.jpg
     imageAlt: Wakanda developers working together at a table.
 developerGroups: |-
-  ## Other Wakanda Developer Groups
+  ## Other Pages
 
   * [React & React Native Meetup](https://www.google.com)
   * [Python Meetup](https://www.google.com)
@@ -20,22 +20,19 @@ developerGroups: |-
   * [Vue.js Meetup](https://www.google.com)
   * [Ruby Meetup](https://www.google.com)
 organizers:
-  title: Group Organizers
+  title: Random Photos of Two Guys
   gallery:
     - image: /img/organizer-1.jpg
-      imageAlt: Tom Cruise
-      name: Tom Cruise
+      imageAlt: Bruce Willis
+      name: 'Random Guy #1'
     - image: /img/organizer-2.jpg
       imageAlt: Tom Hanks
-      name: Tom Hanks
+      name: 'Random Guy #2'
 seo:
-  browserTitle: About | JavaScript Wakanda
-  description: >-
-    JavaScript Wakanda is a meetup group that holds monthly meetups where
-    JavaScript developers get together for presentations and to meet others in
-    the community.
-  title: About | JS Wakanda
+  browserTitle: About | Deniz Saglam
+  description: Deniz Saglam's personal space on the internet
+  title: About | Deniz Saglam
 ---
-## Sharing Ideas and Meeting Others
+## Who is Deniz?
 
-JS Wakanda is a user group run by volunteers. We meet in borrowed spaces, graciously provided by different companies and organisations. Our purpose is to provide a place where our members have a good time talking about programming, sharing their knowledge and meeting other passionate folks. We keep it friendly, inclusive and positive.
+Deniz is currently working as a web developer (formerly a test automation engineer) in Istanbul, Turkey. He holds a bachelor's degree in Electronics Engineering, a master's degree in Sound and Music Computing. He produces beats in his home studio, enjoys reading philosophy and literature, plays chess, brews his own beer, practices Brazilian Jiu Jitsu.

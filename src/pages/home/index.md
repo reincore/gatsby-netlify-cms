@@ -1,28 +1,28 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
-  imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
-upcomingMeetupHeading: Upcoming Meetup
-noUpcomingMeetupText: Details to be announced.
+  image: ''
+  imageAlt: Deniz Saglam
+title: Personal Website of Deniz Saglam
+upcomingMeetupHeading: Who is Deniz?
+noUpcomingMeetupText: >-
+  He is a cool guy. He works as a software developer in Istanbul, Turkey. Check
+  out the About page for more!
 mapsNote: Clicking the pin opens Google Maps in a new tab.
 callToActions:
   firstCTA:
-    heading: Past Meetups
+    heading: Why am I here?
     linkType: internal
     linkURL: /meetups
-    subHeading: Look at what topics were presented at past meetups.
+    subHeading: 'You probably stalked me. That''s cool though, thanks for checking out!'
   secondCTA:
-    heading: Volunteer to Present
+    heading: Contact
     linkType: external
-    linkURL: 'mailto:contact@js-wakanda.org'
-    subHeading: Want to present at an upcoming meetup? Contact us.
+    linkURL: 'mailto:dnzsaglam@gmail.com'
+    subHeading: Feel free to do so. Send an e-mail!
 seo:
-  browserTitle: JS Wakanda
-  description: >-
-    JavaScript meetup group in Wakanda where JavaScript developers get together
-    for presentations and to meet others in the community.
-  title: JavaScript Wakanda
+  browserTitle: Deniz Saglam
+  description: '|| Personal Website'
+  title: Deniz Saglam
 ---
 

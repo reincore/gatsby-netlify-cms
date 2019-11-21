@@ -1,25 +1,21 @@
 ---
 templateKey: footer
 logoImage:
-  image: /img/js-wakanda.png
-  imageAlt: JavaScript Wakanda
-  tagline: Your friendly local Wakanda meetup
+  image: ''
+  imageAlt: ''
+  tagline: ''
 socialLinks:
-  - image: /img/meetup.svg
-    imageAlt: Join us on meetup.com
-    label: meetup.com
-    linkURL: 'https://www.meetup.com/'
   - image: /img/twitter.svg
-    imageAlt: Follow us on Twitter
-    label: twitter.com
-    linkURL: 'https://twitter.com/'
+    imageAlt: Deniz's Twitter Profile
+    label: twitter.com/saglamspor
+    linkURL: 'https://twitter.com/saglamspor'
   - image: /img/facebook.svg
-    imageAlt: Join our Facebook group
-    label: facebook.com
-    linkURL: 'https://www.facebook.com/'
+    imageAlt: Deniz's Facebook Profile
+    label: fb.com/dnzsaglam
+    linkURL: 'https://www.facebook.com/dnzsaglam'
   - image: /img/email.svg
-    imageAlt: Contact us by email
-    label: email us
-    linkURL: 'mailto:contact@js-wakanda.org'
+    imageAlt: Contact Deniz by email
+    label: E-mail
+    linkURL: 'mailto:dnzsaglam@gmail.com'
 ---
 
